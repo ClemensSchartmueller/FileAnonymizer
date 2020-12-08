@@ -41,20 +41,10 @@ java -version
 ```
 in the command line, this should say something including "Java 1.8" or a higher version (i.e. 10, 11 etc.). If not, try reinstalling Java / setting the Environment/Path variable.
 
-- Q; Who is the contact if I still can't get it to run?
+- Q: Who is the contact if I still can't get it to run?
 
-clemens.schartmueller@thi.de
+A: Make an issue on github!
 
-# REPO-URL
- 
- Access is granted upon request by the repo-owner (clemens.schartmueller@thi.de). 
- In general, the repo is located
- 
-  - on bitbucket.org, 
-  
-  - in the "**HCIG_THI**" team, 
-  
-  - project "**Evaluation**"
-  
-  - repo name "**FileAnonymizer**"
-  
+- Q: I want feature xyz, do it now!
+
+A: Pull requests are welcome!
